@@ -5,8 +5,8 @@ Netty is NIO client-server Framework，快速开发网络应用，入门学习
 
  server端
  
-[![alt text](https://github.com/kingflag/Netty_Start/blob/master/result-PIC/EchoServer.jpg "Server端")]
+![alt text](https://github.com/kingflag/Netty_Start/blob/master/result-PIC/EchoServer.jpg "Server端")
 
  Client
-
-[![alt text](https://github.com/kingflag/Netty_Start/blob/master/result-PIC/EchoClient.jpg "client端")]
+ 
+![alt text](https://github.com/kingflag/Netty_Start/blob/master/result-PIC/EchoClient.jpg "client端")
